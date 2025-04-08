@@ -15,10 +15,14 @@ Currently, William Transport relies on manual calls to pick up vehicles. That me
 -	Invoice Generation: Create PDF invoices for completed jobs.
 - Future Enhancement: Add a web interface or integrate with Google Maps API
 ## Why This Project is Useful
-This project is helpful because it helps Willliam's Transport save time when finding vehicles. There would be reduced errors with the help of the automatic tracking system. Drivers are ensured with faster pickup. The Fuel cost estimation helps with budgeting. Automated invoicing puts an end to paperwork. There will be pdfs.
+This project is helpful because it helps Willliam's Transport save time when finding vehicles. There would be reduced errors with the help of the automatic tracking system. Drivers are ensured with faster pick up. The Fuel cost estimation helps with budgeting. Automated invoicing puts an end to paperwork. There will be pdfs.
 
-## How to run
-- Step 1: Have Python installed. Clone the repository. Install liberties like panda, geopy, and report lab.
+## Reqirements (potential)
+-Panda
+-Geopy
+-report kab
+
+- Step 1: Have Python installed. Clone the repository. Install liberties like Panda, geopy, and Report Lab.
 - Step 2: Execute the main script to start the program
 - Step 3: Test Individual Functions
 - Contributors: Nikeryia Williams, developer, working on front and back end. Benji Miezan: Working on front and back end. 

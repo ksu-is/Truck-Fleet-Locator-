@@ -6,10 +6,10 @@
 - [x] Install Necessary Python Libraries
 # Sprint 2 ( April 8 - April 14)
 - [ ] Set up code to store available
-- [ ] Make a diver assignment system
+- [x] Make a driver assignment system
 - [ ] Create PDF invoices for completed pick-ups
-- [ ] Create a basic interface using Flask
-- [ ] Use a real-time distance tracking system with Google
+- [x] Create a basic interface using Flask
+- [x] Use a real-time distance tracking system with Google
 - [ ] Document functionality in ReadMe 
 # Sprint 3  ( April 15 - April 21)
 - [ ] Test vechicle trakcing system

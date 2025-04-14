@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="home">
+   <h1>Vehicle Pickup Request</h1>
+   <form action="{{ url_for('Vehicle_route') }}" method="post">
+       Vehicle ID: <input type='text' name='Vehhicle_ID' required><br>
+       Location: <input type='text' name='location' required><br>
+       <input type='submit' value='Assigned driver'>
+   </form>
+</div>
+{% endblock %}

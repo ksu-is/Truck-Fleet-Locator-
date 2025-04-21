@@ -21,6 +21,7 @@ This project is helpful because it helps Willliam's Transport save time when fin
 - Panda
 - geopy
 - report kab
+-  fpdf
 
 - Step 1: Have Python installed. Clone the repository. Install liberties like Panda, geopy, and Report Lab.
 - Step 2: Execute the main script to start the program

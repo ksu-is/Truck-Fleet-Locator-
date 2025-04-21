@@ -1,7 +1,0 @@
-from apps.invoice_generator import generate_invoice
-# Example usage:
-pickup_id = "12345"
-driver_name = "John Doe"
-customer_name = "Jane Smith"
-amount = 150.00
-generate_invoice(pickup_id, driver_name, customer_name, amount)
